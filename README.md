@@ -17,7 +17,3 @@
 <p align="center">
  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python">
  </p>
-
-&#xa0;
-
-&#xa0;
