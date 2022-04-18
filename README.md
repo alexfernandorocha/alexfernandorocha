@@ -13,7 +13,6 @@ class Tecnologias extends Desenvolvedor {
   public Tecnologias() {
     List<String> tecnologias = new ArrayList<String>();
     tecnologias.add("Java");
-    tecnologias.add("Spring Boot");
     tecnologias.add("Git");
   }
 }
