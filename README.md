@@ -1,20 +1,25 @@
-```java
-package me.alexfrocha;
-import me.alexfrocha.Desenvolvedor;
 
-class SobreMim extends Desenvolvedor {
-  public SobreMim() {
-    super.nome = "Álex Fernando Rocha de Almeida";
-    super.area = "Estudante";
-  }
-}
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-class Tecnologias extends Desenvolvedor {
-  public Tecnologias() {
-    List<String> tecnologias = new ArrayList<String>();
-    tecnologias.add("Java");
-    tecnologias.add("Spring"); // Estudando
-    tecnologias.add("Git");
-  }
-}
-```
+<p align="left"> 
+  Olá me chamo Álex Fernando, desenvolvedor back-end com foco em <code>JAVA</code>. <br>
+  No momento estou estudando mais sobre desenvolvimento web, mas pretendo aprender mais sobre a área mobile.
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
+  📚 <b>Tecnologias</b>
+  <code>JAVA, SPRING, GIT</code>
+</p>
+
+<p align="left">
+  🌱 <b>Pretendo estudar</b>
+  <code>KOTLIN</code>
+</p>
+
+
+</p>  
