@@ -3,10 +3,10 @@
 
 <p align="left"> 
   Olá me chamo Álex Fernando, desenvolvedor back-end com foco em <code>JAVA</code>. <br>
+<br>
   No momento estou estudando mais sobre desenvolvimento web, mas pretendo aprender mais sobre a área mobile.
 </p>
 
-<br>
 <br>
 <br>
 <br>
