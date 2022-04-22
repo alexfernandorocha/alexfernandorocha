@@ -13,10 +13,7 @@
 
 <p align="left">
   📚 <b>Tecnologias</b>
-  <code>JAVA, SPRING e GIT</code>
-</p>
-
-<p align="left">
+  <code>JAVA, SPRING e GIT</code> <br>
   🌱 <b>Pretendo estudar</b>
   <code>KOTLIN e FLUTTER</code>
 </p>
